@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/deck-gl-trips-example/precache-manifest.50695396fd567a6507d9330c6df5cb0f.js"
+  "/deck-gl-trips-example/precache-manifest.3fd5e5bfe3635e76bd61befa3e0cd9e7.js"
 );
 
 workbox.clientsClaim();
